@@ -9,7 +9,7 @@ Bir tam sayının basamak sayılarının toplamını hesaplayan program yazını
         Scanner inp = new Scanner(System.in);
         System.out.print("Sayı Giriniz :");
         int number = inp.nextInt();
-        int basNumber = 0;
+    
         int basValue, result = 0;
 
 
